@@ -1,7 +1,7 @@
 <script>
-import AboutMe from '@/components/about/AboutMe';
-import AboutCounter from '@/components/about/AboutCounter';
-import AboutClients from '@/components/about/AboutClients';
+import AboutMe from '@/components/about/AboutMe.vue';
+import AboutCounter from '@/components/about/AboutCounter.vue';
+import AboutClients from '@/components/about/AboutClients.vue';
 import feather from 'feather-icons';
 
 export default {

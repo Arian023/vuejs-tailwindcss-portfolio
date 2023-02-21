@@ -1,4 +1,4 @@
-# Vuejs & TailwindCSS Portfolio - With Dark Mode
+# Portafolio de Arian Acevedo
 
 A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
@@ -61,7 +61,7 @@ npm install
 5. Start a local dev server at `http://localhost:8080`:
 
 ```
-npm run serve
+npm run dev
 ```
 
 ## Notes
