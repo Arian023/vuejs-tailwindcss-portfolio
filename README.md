@@ -1,4 +1,10 @@
-# Portafolio de Arian Acevedo
+# Borrador Portafolio
+
+Dado que intentar migrar Vue-CLI a Vite no funcionó por el momento, dejo archivado este repositorio mientras continúo con otro...
+
+Referencia: https://vueschool.io/articles/vuejs-tutorials/how-to-migrate-from-vue-cli-to-vite/
+
+---
 
 A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
